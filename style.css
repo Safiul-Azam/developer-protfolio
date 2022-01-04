@@ -6,6 +6,7 @@ body{
     display:flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 
 }
 h1{
@@ -19,7 +20,7 @@ p{
     color:orange;
 }
 .half-width{
-    width:50%;
+    width:40%;
     padding-left:5%;
 }
 .half-width img{
@@ -35,4 +36,10 @@ p{
     color:white;
     font-weight: 400;
 }
-
+.dream-section{
+    display:flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 150px;
+}
