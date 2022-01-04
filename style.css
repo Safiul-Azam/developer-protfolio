@@ -1,0 +1,38 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin:0; 
+}
+.header-section{
+    display:flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+h1{
+    font-size: 50px;
+}
+p{
+    text-transform:lowercase;
+    font-size: 18px;
+}
+.orange{
+    color:orange;
+}
+.half-width{
+    width:50%;
+    padding-left:5%;
+}
+.half-width img{
+    width:60%;
+    background-image: radial-gradient();
+}
+.link-btn{
+    text-decoration: none;
+    background-image:radial-gradient(orange,tomato);
+    padding: 4px 20px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color:white;
+    font-weight: 400;
+}
+
