@@ -77,7 +77,7 @@ p{
 .baby{
     border-left: 5px solid;
     border-image: linear-gradient(rgb(0, 255, 157),rgb(228, 95, 173));
-    border-image-slice: 1;
+    border-image-slice: 2%;
 }
 footer{
     text-align: center;
